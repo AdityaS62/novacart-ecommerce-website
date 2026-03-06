@@ -4,6 +4,11 @@ A fully responsive, feature-rich e-commerce web application built with **React 1
 
 ---
 
+# Live Demo
+
+[Live Website](novacart-ecommerce-website.vercel.app)
+
+---
 ## Tech Stack
 
 | Layer | Technology |
